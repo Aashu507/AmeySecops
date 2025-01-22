@@ -31,7 +31,7 @@ This repository includes:
 
 ## Connect with Me
 
-- [LinkedIn](linkedin.com/in/ameysecops)  
+- [LinkedIn](#linkedin.com/in/ameysecops)  
 - [Twitter](#)  
 - [Personal Portfolio](#)  
 
